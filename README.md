@@ -44,7 +44,3 @@ Built interactive dashboards tracking the following KPIs:
 ## Project Deliverables
 
 - Power BI Dashboard (.pbix)
-
-## About
-
-Developed as part of a 3-month Data Analytics Internship at **Arth Consultancy Services** (January 2026 – April 2026).
